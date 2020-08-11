@@ -10,5 +10,4 @@ public class Test {
 		Information covidTool = new Information();
 		covidTool.getInformation();
 	}
-
 }
