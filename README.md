@@ -12,6 +12,6 @@ A step-by-step guide is in the Documentation folder that gives the users a detai
 
 # Credits
 
-I have got all my data from these websites:
+I have got all my information on COVID-19 cases and hospitals in Windsor, Ontario from:
 * [WECHU](https://www.wechu.org/cv/local-updates)
 * [City of Windsor](https://opendata.citywindsor.ca/)
